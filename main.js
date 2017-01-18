@@ -85,6 +85,6 @@ var myLayer = L.geoJson(undefined, {
 }).addTo(map);
 
 // Load province data
-$.getJSON("/features.geojson", function(json){
+$.getJSON("features.geojson", function(json){
     myLayer.addData(json);
 });
