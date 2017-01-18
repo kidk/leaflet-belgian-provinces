@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-example-belgian-provinces",
+  "version": "0.0.0",
+  "authors": [
+    "Samuel Vandamme <samuel@sava.be>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "homepage": "",
+  "private": false,
+  "dependencies": {
+    "leaflet": "~1.0.2"
+  }
+}
